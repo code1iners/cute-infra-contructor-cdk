@@ -4,12 +4,6 @@
   "bin": {
     "cute-infra-constructor": "bin/cute-infra-constructor.js"
   },
-  "scripts": {
-    "build": "tsc",
-    "watch": "tsc -w",
-    "test": "jest",
-    "cdk": "cdk"
-  },
   "devDependencies": {
     "@types/jest": "^27.5.2",
     "@types/node": "10.17.27",
